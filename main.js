@@ -5,3 +5,5 @@ var t = document.createTextNode("This is a paragraph.");    // Create a text nod
 x.appendChild(t);                                           // Append the text to <p>
 document.body.appendChild(x); 
 
+console.log('runing')
+
